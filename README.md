@@ -4,3 +4,10 @@ haha joke.
 
 ### to do list
 [ ] make a to do list
+[ ] create repo folders
+[ ] Bring Music
+[ ] Bring Old music player
+[ ] Start working on the case study
+[ ] TVA
+
+---
