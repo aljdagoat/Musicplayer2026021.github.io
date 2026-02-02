@@ -1,13 +1,12 @@
-# Musicplayer2026021.github.io
-Music player
-haha joke.
+# Music Player Project
+This repository contains the source code and resources for the **Music Player** project.
 
-### to do list
-[ ] make a to do list
-[ ] create repo folders
-[ ] Bring Music
-[ ] Bring Old music player
-[ ] Start working on the case study
-[ ] TVA
+### To-Do List
+- [x] Create a to-do list
+- [ ] Set up repository folders
+- [ ] Add music files
+- [ ] Import the old music player
+- [ ] Begin the case study
+- [ ] Complete TVA
 
 ---
